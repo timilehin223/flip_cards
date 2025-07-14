@@ -203,14 +203,17 @@ body {
 ::-webkit-scrollbar {
   width: 6px;
 }
+
 ::-webkit-scrollbar-track {
   background: #f1f1f1;
   border-radius: 10px;
 }
+
 ::-webkit-scrollbar-thumb {
   background: #ffb0c6;
   border-radius: 10px;
 }
+
 ::-webkit-scrollbar-thumb:hover {
   background: var(--accent-color);
 }
